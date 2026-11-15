@@ -1,0 +1,29 @@
+sword-sim
+Copyright (C) 2026 jo29_29
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General
+Public License, version 3 only, as published by the Free Software Foundation (see LICENSE), together with the
+additional terms below, which are added under section 7 of that license.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+details.
+
+
+ADDITIONAL TERMS (GNU AGPL v3, section 7)
+
+1. Attribution (section 7(b)). You must keep intact, in all copies of the source code of this program and of any
+   substantial portion of it, the copyright notice above and the author attribution "sword-sim by jo29_29". Any work
+   that contains this program or a substantial portion of it, modified or not, including one that users interact
+   with over a network, must show the attribution "Uses sword-sim by jo29_29" in the Appropriate Legal Notices it
+   displays.
+
+2. Modified versions (section 7(c)). A modified version must be marked in reasonable ways as different from the
+   original, and must not be presented as the original sword-sim by jo29_29.
+
+3. Name (section 7(e)). No rights are granted under trademark law, or otherwise, to use the name "jo29_29" to
+   endorse or promote a modified version or a derived work, apart from the attribution required by term 1.
+
+4. Keeping these terms (section 7(b)). This file, including these additional terms, is a legal notice that must be
+   kept intact and passed on with every copy of this program, of a modified version, and of any substantial portion
+   of it, so that every recipient receives these same terms.

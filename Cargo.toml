@@ -1,0 +1,15 @@
+[package]
+name = "sword-sim"
+version = "0.1.0"
+edition = "2021"
+authors = ["jo29_29"]
+description = "Headless tick-exact Minecraft 1.21.11 sword-duel simulator for reinforcement learning"
+license-file = "ADDITIONAL_TERMS"
+publish = false
+
+[lib]
+name = "swordsim"
+crate-type = ["cdylib", "rlib"]
+
+[profile.release]
+debug = false
